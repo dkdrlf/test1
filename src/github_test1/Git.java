@@ -7,6 +7,7 @@ public class Git {
 		
 		
 		System.out.println("변경");
+		System.out.println("세번째커밋");
 	}
 
 }
